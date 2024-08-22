@@ -12,7 +12,7 @@ export const USER_NAME = "FOODHN";
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+// export const SERVER_URL = "https://demo.saroprock.com";
 
 // Some informative text on the site
 export const infoTest = {
@@ -86,7 +86,7 @@ export const menuItems = [
 ];
 
 // Social media and contact icons
-export const socialIcons = [
+// export const socialIcons = [
   {
     href: "https://afdian.net/a/saroprock",
     ariaLabel: "Support my work",
