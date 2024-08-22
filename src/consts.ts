@@ -2,13 +2,13 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_TAB = "Frosti";
-export const SITE_TITLE = "Frosti 🧊";
-export const SITE_DESCRIPTION = "A blog template";
+export const SITE_TAB = "挤压膨化技术";
+export const SITE_TITLE = "挤压机膨化机 🧊";
+export const SITE_DESCRIPTION = "早餐谷物生产线、再造米生产线、玉米片、拉丝蛋白、组织蛋白、植物肉、膨化、妙脆角、锅巴";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "EveSunMaple";
+export const USER_NAME = "FOODHN";
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
@@ -79,7 +79,7 @@ export const menuItems = [
   {
     id: "contact",
     text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
+    href: "mailto:foodhn@outlook.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "contact",
   },
@@ -100,9 +100,9 @@ export const socialIcons = [
     svg: "github",
   },
   {
-    href: "https://space.bilibili.com/438392347",
-    ariaLabel: "BiliBili",
-    title: "BiliBili",
+    href: "https://www.buhlergroup.com",
+    ariaLabel: "布勒",
+    title: "挤压机",
     svg: "bilibili",
   },
   {
