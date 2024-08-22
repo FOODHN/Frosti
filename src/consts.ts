@@ -94,7 +94,7 @@ export const socialIcons = [
     svg: "support",
   },
   {
-    href: "https://github.com/EveSunMaple",
+    href: "https://github.com/",
     ariaLabel: "Github",
     title: "Github",
     svg: "github",
