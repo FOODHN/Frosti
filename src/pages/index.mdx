@@ -9,7 +9,21 @@ import Success from "../components/blog/success.astro";
 import Warning from "../components/blog/warning.astro";
 import TimeLine from "../components/page/TimeLine.astro";
 import LinkCard from "../components/page/LinkCard.astro";
+---
+import { SEO } from "astro-seo";
+---
 
+<html lang="zh">
+  <head>
+    <SEO
+      title="挤压机"
+      description="早餐谷物生产线、再造米生产线、玉米片、拉丝蛋白、组织蛋白、植物肉、膨化、妙脆角、锅巴 ."
+
+    />
+    // ... rest of <head
+  </head>
+    <body> // ... body </body>
+</html>
 <BaseLayout title="膨化机主页">
   <BaseCard title="挤压机主页">
     <div class="flex">
